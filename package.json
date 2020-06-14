@@ -1,0 +1,10 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "\"ckopecky\" <kopecky12112@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "squarespace-server https://stl-mutual-aid.squarespace.com --auth -A"
+  }
+}
